@@ -1,0 +1,6 @@
+
+.c-layout {
+  > main {
+    height: calc(100vh - ($navbar-height + $footer-height));
+  }
+}
